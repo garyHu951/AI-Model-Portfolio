@@ -81,7 +81,7 @@ countColorPieces(gameboard, player_color)
 
 #### Part 4: Minimax 搜索 AI
 ```cpp
-# part4-2.cpp
+# part4.cpp
 minimaxSearch(gameboard, player_color, depth)
 ```
 - 使用 Minimax 算法實現 AI 對手
@@ -199,7 +199,7 @@ g++ -std=c++11 -O2 -o program_name source_file.cpp
 ├── part1.py                          # Othello: 翻子計算
 ├── part2.py                          # Othello: 翻子執行
 ├── part3.py                          # Othello: 棋子計數
-├── part4-2.cpp                       # Othello: Minimax AI
+├── part4.cpp                       # Othello: Minimax AI
 ├── Fullsystem_an 8-puzzle game.cpp   # 8-Puzzle 完整系統
 ├── project3.py                       # 甲狀腺疾病分類器
 ├── 01157123_衡家豪_實驗結果報告.docx # 實驗報告
