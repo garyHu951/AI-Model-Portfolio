@@ -192,23 +192,6 @@ g++ -std=c++11 -O2 -o program_name source_file.cpp
 
 ---
 
-## 文件結構
-
-```
-├── project1&2.txt                    # 項目說明文檔
-├── part1.py                          # Othello: 翻子計算
-├── part2.py                          # Othello: 翻子執行
-├── part3.py                          # Othello: 棋子計數
-├── part4.cpp                       # Othello: Minimax AI
-├── Fullsystem_an 8-puzzle game.cpp   # 8-Puzzle 完整系統
-├── project3.py                       # 甲狀腺疾病分類器
-├── 01157123_衡家豪_實驗結果報告.docx # 實驗報告
-└── README.md                         # 本文件
-```
-
-
----
-
 
 ## 授權說明
 
