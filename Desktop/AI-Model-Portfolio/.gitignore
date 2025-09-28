@@ -1,0 +1,81 @@
+# 系统文件
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Windows 系统文件
+AppData/
+Local Settings/
+NTUSER.DAT*
+ntuser.ini
+$RECYCLE.BIN/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyTorch
+*.pth
+*.pt
+
+# TensorFlow/Keras
+*.h5
+*.keras
+
+# 其他机器学习框架
+*.model
+*.joblib
+*.pkl
+
+# 数据集（大文件）
+*.csv
+*.json
+*.xml
+data/
+dataset/
+*.zip
+*.tar
+*.gz
+
+# 日志文件
+*.log
+logs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 环境变量
+.env
+.venv
+env/
+venv/
+ENV/
+
+# 临时文件
+*.tmp
+*.temp
